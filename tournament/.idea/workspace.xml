@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2d78b54-1360-4af0-a8b8-90206ce6c0e8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="tournament.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tournament.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tournament_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tournament_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tournament.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2" />
+    <option name="y" value="-2" />
+    <option name="width" value="42" />
+    <option name="height" value="22" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tournament" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tournament" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in tournament_test.py">
+    <configuration name="Unittests for tournament_test.TournamentTest.test_a_win_can_also_be_expressed_as_a_loss" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="tournament" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tournament_test.TournamentTest.test_a_win_can_also_be_expressed_as_a_loss&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for tournament_test.TournamentTest.test_a_win_is_three_points_and_a_loss_is_zero_points" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="tournament" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tournament_test.TournamentTest.test_a_win_is_three_points_and_a_loss_is_zero_points&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for tournament_test.TournamentTest.test_just_the_header_if_no_input" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="tournament" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tournament_test.TournamentTest.test_just_the_header_if_no_input&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for tournament_test.TournamentTest.test_ties_broken_alphabetically" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="tournament" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tournament_test.TournamentTest.test_ties_broken_alphabetically&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in tournament_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="tournament" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tournament_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for tournament_test.TournamentTest.test_ties_broken_alphabetically" />
+      <item itemvalue="Python tests.Unittests in tournament_test.py" />
+      <item itemvalue="Python tests.Unittests for tournament_test.TournamentTest.test_a_win_is_three_points_and_a_loss_is_zero_points" />
+      <item itemvalue="Python tests.Unittests for tournament_test.TournamentTest.test_just_the_header_if_no_input" />
+      <item itemvalue="Python tests.Unittests for tournament_test.TournamentTest.test_a_win_can_also_be_expressed_as_a_loss" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in tournament_test.py" />
+        <item itemvalue="Python tests.Unittests for tournament_test.TournamentTest.test_a_win_can_also_be_expressed_as_a_loss" />
+        <item itemvalue="Python tests.Unittests for tournament_test.TournamentTest.test_a_win_is_three_points_and_a_loss_is_zero_points" />
+        <item itemvalue="Python tests.Unittests for tournament_test.TournamentTest.test_just_the_header_if_no_input" />
+        <item itemvalue="Python tests.Unittests for tournament_test.TournamentTest.test_ties_broken_alphabetically" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2d78b54-1360-4af0-a8b8-90206ce6c0e8" name="Default" comment="" />
+      <created>1556111445829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556111445829</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_tournament_test_TournamentTest_test_a_win_is_three_points_and_a_loss_is_zero_points - 2019.05.10 at 20h 12m 43s.xml">
+      <configuration name="Unittests for tournament_test.TournamentTest.test_a_win_is_three_points_and_a_loss_is_zero_points" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_tournament_test_TournamentTest_test_a_win_is_three_points_and_a_loss_is_zero_points - 2019.05.10 at 20h 16m 58s.xml">
+      <configuration name="Unittests for tournament_test.TournamentTest.test_a_win_is_three_points_and_a_loss_is_zero_points" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_tournament_test_TournamentTest_test_a_win_is_three_points_and_a_loss_is_zero_points - 2019.05.10 at 20h 17m 46s.xml">
+      <configuration name="Unittests for tournament_test.TournamentTest.test_a_win_is_three_points_and_a_loss_is_zero_points" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_tournament_test_TournamentTest_test_a_win_is_three_points_and_a_loss_is_zero_points - 2019.05.10 at 20h 17m 49s.xml">
+      <configuration name="Unittests for tournament_test.TournamentTest.test_a_win_is_three_points_and_a_loss_is_zero_points" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_tournament_test_TournamentTest_test_a_win_is_three_points_and_a_loss_is_zero_points - 2019.05.10 at 20h 19m 08s.xml">
+      <configuration name="Unittests for tournament_test.TournamentTest.test_a_win_is_three_points_and_a_loss_is_zero_points" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_tournament_test_TournamentTest_test_a_win_is_three_points_and_a_loss_is_zero_points - 2019.05.10 at 20h 19m 52s.xml">
+      <configuration name="Unittests for tournament_test.TournamentTest.test_a_win_is_three_points_and_a_loss_is_zero_points" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_tournament_test_py - 2019.05.10 at 20h 20m 03s.xml">
+      <configuration name="Unittests in tournament_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_tournament_test_py - 2019.05.10 at 20h 20m 25s.xml">
+      <configuration name="Unittests in tournament_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_tournament_test_TournamentTest_test_a_win_can_also_be_expressed_as_a_loss - 2019.05.10 at 20h 23m 33s.xml">
+      <configuration name="Unittests for tournament_test.TournamentTest.test_a_win_can_also_be_expressed_as_a_loss" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_tournament_test_py - 2019.05.10 at 20h 23m 37s.xml">
+      <configuration name="Unittests in tournament_test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14001592" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297491" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297491" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3297491" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5286738" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24980111" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3297491" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39964157" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="0" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tournament.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="39" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tournament.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tournament_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/miniconda3/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="614" selection-start-line="614" selection-end-line="614" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tournament_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tournament.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bda47c74-0997-47a0-b102-f96ff53fcd19" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="book_store.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book_store.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="book_store_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/book_store_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>BOOKS</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/book_store.py" />
+        <option value="$PROJECT_DIR$/book_store_old.py" />
+        <option value="$PROJECT_DIR$/book_store_test.py" />
+        <option value="$PROJECT_DIR$/book_store_3.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2" />
+    <option name="y" value="-2" />
+    <option name="width" value="6" />
+    <option name="height" value="4" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="book-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-store" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\elahav109995\Exercism\python\book-store" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in book_store_test.py">
+    <configuration name="Unittests for book_store_test.BookStoreTest.test_five_different_books" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="book-store" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;book_store_test.BookStoreTest.test_five_different_books&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for book_store_test.BookStoreTest.test_four_groups_of_4_are_cheaper_than_2_groups_each_of_5_and_3" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="book-store" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;book_store_test.BookStoreTest.test_four_groups_of_4_are_cheaper_than_2_groups_each_of_5_and_3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for book_store_test.BookStoreTest.test_three_copies_of_first_book_and_2_each_of_remaining" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="book-store" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;book_store_test.BookStoreTest.test_three_copies_of_first_book_and_2_each_of_remaining&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for book_store_test.BookStoreTest.test_two_groups_of_4_is_cheaper_than_groups_of_5_and_3" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="book-store" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;book_store_test.BookStoreTest.test_two_groups_of_4_is_cheaper_than_groups_of_5_and_3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in book_store_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="book-store" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/book_store_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for book_store_test.BookStoreTest.test_four_groups_of_4_are_cheaper_than_2_groups_each_of_5_and_3" />
+      <item itemvalue="Python tests.Unittests in book_store_test.py" />
+      <item itemvalue="Python tests.Unittests for book_store_test.BookStoreTest.test_three_copies_of_first_book_and_2_each_of_remaining" />
+      <item itemvalue="Python tests.Unittests for book_store_test.BookStoreTest.test_two_groups_of_4_is_cheaper_than_groups_of_5_and_3" />
+      <item itemvalue="Python tests.Unittests for book_store_test.BookStoreTest.test_five_different_books" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in book_store_test.py" />
+        <item itemvalue="Python tests.Unittests for book_store_test.BookStoreTest.test_two_groups_of_4_is_cheaper_than_groups_of_5_and_3" />
+        <item itemvalue="Python tests.Unittests for book_store_test.BookStoreTest.test_four_groups_of_4_are_cheaper_than_2_groups_each_of_5_and_3" />
+        <item itemvalue="Python tests.Unittests for book_store_test.BookStoreTest.test_five_different_books" />
+        <item itemvalue="Python tests.Unittests for book_store_test.BookStoreTest.test_three_copies_of_first_book_and_2_each_of_remaining" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bda47c74-0997-47a0-b102-f96ff53fcd19" name="Default" comment="" />
+      <created>1558107792555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558107792555</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_book_store_test_py - 2019.05.25 at 23h 13m 04s.xml">
+      <configuration name="Unittests in book_store_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_book_store_test_BookStoreTest_test_two_groups_of_4_is_cheaper_than_groups_of_5_and_3 - 2019.05.25 at 23h 14m 38s.xml">
+      <configuration name="Unittests for book_store_test.BookStoreTest.test_two_groups_of_4_is_cheaper_than_groups_of_5_and_3" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_book_store_test_py - 2019.05.25 at 23h 14m 42s.xml">
+      <configuration name="Unittests in book_store_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_book_store_test_py - 2019.05.25 at 23h 15m 08s.xml">
+      <configuration name="Unittests in book_store_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_book_store_test_py - 2019.05.25 at 23h 15m 32s.xml">
+      <configuration name="Unittests in book_store_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_book_store_test_py - 2019.05.25 at 23h 15m 42s.xml">
+      <configuration name="Unittests in book_store_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_book_store_test_py - 2019.05.25 at 23h 16m 44s.xml">
+      <configuration name="Unittests in book_store_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_book_store_test_py - 2019.05.25 at 23h 17m 35s.xml">
+      <configuration name="Unittests in book_store_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_book_store_test_py - 2019.05.25 at 23h 18m 05s.xml">
+      <configuration name="Unittests in book_store_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_book_store_test_py - 2019.05.25 at 23h 19m 00s.xml">
+      <configuration name="Unittests in book_store_test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11296738" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3297491" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28315413" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19892474" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964157" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/book_store.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/book_store.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/book_store.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/book_store.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="55" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/book_store.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book_store_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book_store.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book_store_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book_store.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1450">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book_store_old.py" />
+    <entry file="file://$PROJECT_DIR$/book_store_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book_store.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book_store_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book_store_old.py" />
+    <entry file="file://$PROJECT_DIR$/book_store.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book_store_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/miniconda3/Lib/collections/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="558" selection-start-line="558" selection-end-line="558" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book_store_old.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/miniconda3/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="614" selection-start-line="614" selection-end-line="614" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book_store.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="47" column="28" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="47" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book_store.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book_store_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
