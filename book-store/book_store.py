@@ -10,7 +10,6 @@ def total(books):
 
     book_groups = split_books_to_groups(Counter(books))
     book_groups = prepare_for_calculation(book_groups)
-
     discounts = [DISCOUNTS[len(counter + Counter())] for counter in book_groups]
     return sum([sum(counter.values()) * PRICE * (1 - discount / 100)
                 for counter, discount in zip(book_groups, discounts)])
